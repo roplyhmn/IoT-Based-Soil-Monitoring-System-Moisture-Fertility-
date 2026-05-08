@@ -47,4 +47,3 @@ The system follows a client-server architecture:
 - Real-time monitoring dashboard
 - Threshold-based alerts
 - Historical data visualization (graphs)
-- Recommendation system (e.g., watering or fertilizing)
